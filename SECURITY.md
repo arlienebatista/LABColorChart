@@ -1,10 +1,7 @@
 
-LAB Color Chart
-
-REGISTRO INPI-BR: BR512024000538-2 · Expedido em 27 de fev de 2024
+REGISTRO INPI: BR512024000538-2 · Expedido em 27 de fev de 2024
 
 MIT License
-
 Copyright (c) 2023 Arliene Santos et al.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
