@@ -1,6 +1,10 @@
+
+LAB Color Chart
+REGISTRO INPI-BR: BR512024000538-2 · ExpedidO em 27 de fev de 2024
+--------------------------------------------------------------------------------
 MIT License
 
-Copyright (c) 2023 Renires dos Santos Teixeira et al.
+Copyright (c) 2023 Arliene Santos et al.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
