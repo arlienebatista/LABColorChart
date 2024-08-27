@@ -6,4 +6,6 @@ Versão: v1.2
 
 ![Entrada de Dados](/Tela_black.png)
 
+![Entrada de Dados nova versao](/tela05.png)
+
 ![Gráfico](/Tela02.png)
