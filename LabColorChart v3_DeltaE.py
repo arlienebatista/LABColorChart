@@ -120,7 +120,7 @@ def create_lab_color_chart(L_valores, a_valores, b_valores, imagem_path, sample_
         imagem = plt.imread(imagem_path)
 
         # Aumentar o tamanho da figura (largura, altura em polegadas)
-        fig = plt.figure(figsize=(10, 9))
+        fig = plt.figure(figsize=(10, 8))
         
         # Ajustar os gridspecs para o novo tamanho
         gs = fig.add_gridspec(2, 1, height_ratios=[0.9, 0.15], hspace=0.4)  # Ajustado hspace e ratios
